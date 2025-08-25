@@ -1,32 +1,36 @@
-# Hi, I'm Basuki! 👋
+# 👋 Hey there, I'm Basuki!
 
 <p align="center">
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
 </p>
+
+🎓 Master's from NIT Calicut | 💼 Senior SDE at a leading HCM organization
+
 
 ---
 
-**A highly skilled mid-level engineer with 5 years of experience specializing in backend development using Java and Python.**
+**Experienced software engineer with a passion for building robust, scalable, and secure systems.**
 
-- 🏗️ Proficient in designing and implementing scalable system architectures
-- 🗄️ Hands-on with various databases
-- 🚀 Integrating modern DevOps practices to streamline deployment and operations
-- ☁️ Experienced in AWS Cloud services
-- 🐧 Linux system administration
-- 🔄 Configuration of robust CI/CD pipelines and build automation tools
+- 🏗️ Architecting and developing scalable, high-performance backend solutions
+- 🗄️ Deep expertise in designing, modeling, and optimizing relational and NoSQL databases
+- 🔄 Mastery across the entire SDLC: requirements analysis, system design, development, testing, deployment, and maintenance
+- 🚀 Championing modern DevOps practices for seamless CI/CD, automation, and cloud-native deployments
+- ☁️ Advanced experience with AWS and cloud infrastructure
+- 🐧 Skilled in Linux system administration and scripting
+- �️ Focused on security, reliability, and operational excellence
+- 🤖 Artificial Intelligence & Machine Learning
+Deep Learning, Computer Vision, NLP, MLOps
 
 
 **Also experienced with:**
-- 🪙 Blockchain technology
-- 🤖 Android development
+-  Android development
 - 🌐 Web development
+- 🤖 Artificial Intelligence
 
-**Actively making significant progress in:**
-- 🤖 Artificial Intelligence & Machine Learning
-	- Deep Learning, Computer Vision, NLP, MLOps
-	- Model deployment, Data Engineering, Feature Engineering
-	- Kaggle Competitions, Research Prototyping
-	- Tools/Libraries: TensorFlow, PyTorch, scikit-learn, Keras, XGBoost, LightGBM, OpenCV, spaCy, NLTK, Hugging Face, MLflow, DVC, FastAPI, Streamlit
 
 **Tech Stack:** Java, Python, AWS, Linux, Docker, Kubernetes, Jenkins, Git, SQL/NoSQL, and more.
 
@@ -138,20 +142,19 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=basukinathkumar&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
 
----
+📝 Passionate about writing and sharing technical insights, with a commitment to continuous learning and knowledge sharing within the engineering community.
 
-Passionate about writing and sharing technical insights, with a commitment to continuous learning and knowledge sharing within the engineering community.
-
----
-
-### 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Basuki-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/basukinathkumar/)
+- 👨‍🏫 Loves to teach and mentor fellow engineers
+- 🌍 I love contributing to Open Source projects
+- 🌙 A nightcrawler who enjoys late-night coding sessions
+- 🎬 Movie maniac and film buff
+- 🎶 Old Bollywood song lover and retro music enthusiast
+- ☕ Java fan and JVM ecosystem explorer
+- 🏆 Enjoys hackathons and tech meetups
+- 🤔 Curious about new tech trends and AI advancements
+- 📚 Lifelong learner, always up for a challenge
+- 🫖 Coffee and chai fuel my productivity
 
 ---
 
@@ -163,24 +166,7 @@ Passionate about writing and sharing technical insights, with a commitment to co
 	<img src="https://img.shields.io/badge/Discord-bsknath-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
----
 
-### 🌐 Socials
-<p align="center">
-	<a href="https://www.linkedin.com/in/basukinathkumar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-	<a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=basukinathkumar&show_icons=true&theme=github_dark" alt="Basuki's GitHub stats" width="400"/>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=basukinathkumar&theme=github-dark-blue" alt="GitHub Streak" width="400"/>
-</p>
 
 ---
 
@@ -191,5 +177,4 @@ Passionate about writing and sharing technical insights, with a commitment to co
 		<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"/>
 	</a>
 </p>
-**GitHub Stats, Pinned Projects, and more can be added below using shields.io, GitHub Readme Stats, or custom widgets.**
--->
+<!--
